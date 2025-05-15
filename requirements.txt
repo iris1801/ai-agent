@@ -1,0 +1,7 @@
+crewai
+ollama
+requests
+bs4
+lxml
+openai  # (usato per parsing intelligente, opzionale)
+tqdm
